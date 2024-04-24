@@ -1,0 +1,4 @@
+0 CGCGG
+1 taaac
+1 GCTGT
+1 gggcc
